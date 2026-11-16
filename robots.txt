@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atr-webs.github.io/LAZARETO-WEB/sitemap.xml
